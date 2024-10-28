@@ -11,9 +11,6 @@ indicatori economici, numerosità della popolazione, emissioni di CO2.
 Per approfondire come i Paesi si sono mossi sul tema dell’energia sostenibile, qui c’è un dataset che puoi integrare:
 - Global Data on Sustainable Energy (https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy)
 
-Oppure un dataset con i dati dei migranti dispersi a livello globale:
-- Global Missing Migrants Dataset (https://www.kaggle.com/datasets/nelgiriyewithana/global-missing-migrants-dataset)
-
 Scegli i dataset che preferisci per approfondire il confronto sulle tematiche che più ti interessano (puoi usarne anche di altri che trovi online).
 
 Crea una presentazione in formato PDF in cui includere: Link a una cartella Drive con lo script SQL sviluppato, completo di commenti nelle varie sezioni.
